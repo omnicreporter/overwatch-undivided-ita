@@ -6,7 +6,7 @@
   "cover": "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/Cover.jpg",
   "chapters": {
     "1": {
-      "title": "Episodio 1",
+      "title": "Capitolo 1",
       "volume": "",
       "groups": {
         "The Omnic Reporter": [
@@ -31,6 +31,33 @@
           "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-19-A.jpg",
           "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-20-A.jpg",
           "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-END.jpg"
+]
+      }
+    },
+    "2": {
+      "title": "Capitolo 2",
+      "volume": "",
+      "groups": {
+        "The Omnic Reporter": [
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-01-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-02-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-03-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-04-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-05-06-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-07-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-08-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-09-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-10-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-11-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-12-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-13-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-14-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-15-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-16-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-17-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-18-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-19-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap02/02-END.jpg"
         ]
       }
     }

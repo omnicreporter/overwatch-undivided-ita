@@ -1,0 +1,38 @@
+{
+  "title": "Overwatch: Undivided (ITA)",
+  "description": "All'indomani dell'attacco di Talon all'Osservatorio Gibilterra, gli eroi di Overwatch fanno i conti con una sconfitta devastante. Ma Vendetta è tutt'altro che soddisfatta: vengono lanciati attacchi in tutto il mondo contro centri di ricerca, basi militari e grandi metropoli. Mentre Sojourn raduna gli eroi ormai esausti per affrontare la Talon ovunque colpisca, riceve una notizia sconvolgente che mette in discussione tutto ciò in cui ha sempre creduto: quando il mondo afferma di non aver bisogno di eroi, può Overwatch restare ancora unita e salda?",
+  "artist": "HIVE",
+  "author": "Sam King",
+  "cover": "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/Cover.jpg",
+  "chapters": {
+    "1": {
+      "title": "Episodio 1",
+      "volume": "",
+      "groups": {
+        "The Omnic Reporter": [
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-01-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-02-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-03-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-04-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-05-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-06-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-07-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-08-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-09-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-10-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-11-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-12-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-13-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-14-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-15-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-16-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-17-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-18-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-19-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-20-A.jpg",
+          "https://raw.githubusercontent.com/omnicreporter/overwatch-undivided-ita/main/cap01/01-END.jpg"
+        ]
+      }
+    }
+  }
+}
